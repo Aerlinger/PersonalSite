@@ -1,0 +1,20 @@
+@media (max-width: 979px) {
+
+  #home ul.navi li a {
+    font-size: 12px;
+  }
+
+  .navbar-fixed-top,
+  .navbar-fixed-bottom {
+    position: static !important;
+  }
+  .navbar-fixed-top {
+    margin-bottom: 18px;
+  }
+  .navbar-fixed-top .navbar-inner,
+  .navbar-fixed-bottom .navbar-inner {
+    padding: 5px;
+  }
+
+}
+
